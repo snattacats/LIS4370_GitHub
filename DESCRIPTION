@@ -1,0 +1,10 @@
+Package: SpaceCalculator
+Type: Package
+Title:  Used to calculate space related information (short line)
+Version: 1.0
+Date: 2022-03-23
+Author: Connor R. Elfers
+Maintainer: Who to complain to <connorelfes@usf.edu>
+Description: Provides function to calculate most common types of space realted calculations such as speed, 
+distance, mass, size, energy, etc. Also includes a function to create a random data frame to test calculations on. (maybe more than one line)
+License: CCO
